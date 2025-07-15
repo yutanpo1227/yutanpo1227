@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Contributions](https://badgen.net/github/commits/long-910/long-910.github.io)
+
+
+<p align="left">
+    <a href="https://github.com/yutanpo1227">
+        <img height="20" src="https://komarev.com/ghpvc/?username=yutanpo1227&label=Profile%20views&color=0e75b6&style=flat" />
+    </a>
+    <a href="https://zenn.dev/yutapon_juice">
+        <img height="20" src="https://badgen.org/img/zenn/yutapon_juice/articles?style=plastic" />
+    </a>
+</p>
