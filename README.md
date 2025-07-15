@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ![Contributions](https://badgen.net/github/commits/long-910/long-910.github.io)
 [![Articles](https://badgen.org/img/zenn/yutapon_juice/articles?style=plastic)](https://zenn.dev/yutapon_juice)
+[![Articles](https://badgen.org/img/zenn/yukoma/articles?style=plastic&label=Work+Article)](https://zenn.dev/yukoma)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yutanpo1227&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yutanpo1227&theme=gruvbox)
