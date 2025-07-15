@@ -17,9 +17,4 @@ Here are some ideas to get you started:
 
 ![Contributions](https://badgen.net/github/commits/long-910/long-910.github.io)
 
-
-<p align="left">
-    <a href="https://zenn.dev/yutapon_juice">
-        <img height="20" src="https://badgen.org/img/zenn/yutapon_juice/articles?style=plastic" />
-    </a>
-</p>
+[![Articles](https://badgen.org/img/zenn/yutapon_juice/articles?style=plastic)](https://zenn.dev/yutapon_juice)
