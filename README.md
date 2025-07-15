@@ -26,3 +26,6 @@ Here are some ideas to get you started:
   <img height="30" src="./blog-icon.png" /> 
   <p>https://y-blog-livid.vercel.app</p>
 </a>
+
+[![Articles](https://badgen.org/img/zenn/yutapon_juice/articles?style=plastic)](https://zenn.dev/yutapon_juice)
+[![Articles](https://badgen.org/img/zenn/yukoma/articles?style=plastic&label=Work+Article)](https://zenn.dev/yukoma)
