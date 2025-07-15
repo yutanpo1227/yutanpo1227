@@ -25,4 +25,7 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yutanpo1227&theme=gruvbox&utcOffset=9)
 
 ## My Blog
-https://y-blog-livid.vercel.app/
+<a href="https://y-blog-livid.vercel.app/" target="_blank" style="display: flex; items: center; gap: 10px;">
+  <img height="30" src="./blog-icon.png" /> 
+  <p style="color: #FFFFFF; text-decoration:underline;">https://y-blog-livid.vercel.app</p>
+</a>
