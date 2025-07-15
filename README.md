@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Contributions](https://badgen.net/github/commits/long-910/long-910.github.io)
 [![Articles](https://badgen.org/img/zenn/yutapon_juice/articles?style=plastic)](https://zenn.dev/yutapon_juice)
 [![Articles](https://badgen.org/img/zenn/yukoma/articles?style=plastic&label=Work+Article)](https://zenn.dev/yukoma)
 
@@ -24,3 +23,6 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yutanpo1227&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yutanpo1227&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yutanpo1227&theme=gruvbox&utcOffset=9)
+
+## My Blog
+https://y-blog-livid.vercel.app/
